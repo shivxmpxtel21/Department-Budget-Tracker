@@ -1,4 +1,6 @@
-
+'''
+Test for Expense Module
+'''
 import unittest
 from department_budget_tracker.expense import create_expense
 
