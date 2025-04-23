@@ -1,4 +1,6 @@
-
+'''
+Test for Department Module
+'''
 import unittest
 from department_budget_tracker.database import initialize_database, session, Department
 from department_budget_tracker.department import DepartmentManager
